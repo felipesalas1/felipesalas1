@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning Python, RS, JS, TS, React, Node, and Next.JS
 - 📫 HYou can reach me at lf.salas10(at)uniandes.edu.co or felipesalas1(at)me.com
 
+You can find more of my work at my secondary Github Account at https://github.com/felipevyuu
+
+Vyuu is my personal art and tech entrepreneurship!
+
